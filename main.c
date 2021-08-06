@@ -6,7 +6,7 @@ int main()
     printf("Hello world!\n");
 
     printf("Hi GitHub!\n");
-    int numero = 30;
+    int numero = 50;
 
     printf("Goodbye GitHub!\n");
     return 0;
